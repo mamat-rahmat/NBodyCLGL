@@ -11,3 +11,7 @@ NBody Boost.Compute Example using Qt5 and QOpenGLWindow
 ## Notes
 
 Currently only tested with Qt MinGW Compiler on Windows. Unfortunately not working on MSVC Compiler on my machine.
+
+## Demo
+
+![nbody demo](nbody.gif)
